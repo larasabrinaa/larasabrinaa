@@ -1,11 +1,4 @@
-# <img 
-  align="left" 
-  alt="GDScript" 
-  title="GDScript" 
-  width="30px" 
-  hspace="10" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
-/> Lara Sabrina 
+# U+1F64B U+1F3FE U+200D U+2640 U+FE0F Lara Sabrina 
 
 **`Desenvolvedora em Formação|Estudante de Tecnologia 💻`**
 
