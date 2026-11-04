@@ -7,21 +7,21 @@ Olá! Me chamo **Lara Sabrina da Silva Costa**, sou natural do Maranhão e sou a
 Tenho interesse pela área de desenvolvimento de software, programação, banco de dados e desenvolvimento web. Ao longo da minha trajetória acadêmica, venho adquirindo conhecimentos e desenvolvendo projetos práticos, buscando aprimorar minhas habilidades e transformar ideias em soluções tecnológicas.Estou em constante aprendizado, sempre em busca de novos desafios e oportunidades para crescer profissionalmente na área de tecnologia.
 
 <p align="left">
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:larasabrinadev@gmail.com">
     <img
       alt="E-mail"
       title="E-mail"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/lara-sabrina-677208227">
     <img
       alt="LinkedIn"
       title="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/">
+  <a href="https://www.instagram.com/laraa_sabrinaa/">
     <img
       alt="Instagram"
       title="Instagram"
