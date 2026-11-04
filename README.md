@@ -92,8 +92,7 @@ Tenho interesse pela área de desenvolvimento de software, programação, banco 
 <br/>
 
 ### 📊 Estatísticas
-<div align="center">
-
+<div align="left">
 <table>
 <tr>
 <td>
