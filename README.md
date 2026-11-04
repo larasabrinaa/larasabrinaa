@@ -92,3 +92,17 @@ Tenho interesse pela área de desenvolvimento de software, programação, banco 
 <br/>
 
 ### 📊 Estatísticas
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=larasabrinaa&show_icons=true&theme=radical&bg_color=0d1117&title_color=F778BA&icon_color=79DDF2&text_color=ffffff&border_color=8b8b93&include_all_commits=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=larasabrinaa&layout=compact&theme=radical&bg_color=0d1117&title_color=F778BA&text_color=ffffff&border_color=8b8b93&langs_count=8"/>
+</td>
+</tr>
+</table>
+
+</div>
