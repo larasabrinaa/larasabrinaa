@@ -73,6 +73,14 @@ Tenho interesse pela área de desenvolvimento de software, programação, banco 
 />
 <img 
     align="left" 
+    alt="GDScript"
+    title="GDScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
