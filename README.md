@@ -1,4 +1,4 @@
-# U+1F64B U+1F3FE U+200D U+2640 U+FE0F Lara Sabrina 
+# 🙋🏽‍♀️Lara Sabrina 
 
 **`Desenvolvedora em Formação|Estudante de Tecnologia 💻`**
 
