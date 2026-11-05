@@ -8,11 +8,7 @@ Tenho interesse pela área de desenvolvimento de software, programação, banco 
 
 <p align="left">
   <a href="mailto:larasabrinadev@gmail.com">
-    <img
-      alt="E-mail"
-      title="E-mail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lara-sabrina-677208227">
     <img
